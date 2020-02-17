@@ -78,8 +78,6 @@ Go to https://trello.com/app-key
 
 ### References
 
-#### Project stack
-
 ##### [VueJS](https://vuejs.org/)
 
 ##### [Axios](https://github.com/axios/axios)
