@@ -1,4 +1,4 @@
-# Trello LINE Notify
+# Trello x LINE Notify
 
 I'm looking approach to notify all events from Trello to LINE (an instant messaging app that my team use), Then I've found the way to achieve that.
 
