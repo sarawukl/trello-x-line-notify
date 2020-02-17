@@ -10,6 +10,8 @@ Trello provides webhooks for notifying all changes in the Trello model to the th
 
 ### 1. Prepare Trello key
 
+Go to https://trello.com/app-key
+
 1.1 Trello_App_Key
 
 1.2 Trello_Token_key
